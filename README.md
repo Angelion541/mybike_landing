@@ -1,4 +1,10 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# MyBIKE landing with HTML5, SCSS, BEM and JS.
+
+- [DEMO LINK](https://angelion541.github.io/mybike_landing/)
+
+- In this landing I using design [design of project](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1)
+
+- Fonts of project Poppins from https://fonts.googleapis.com
+
+- In this adaptive website I`m used BEM methodology, Flexbox, Grid elements, is styled by use scss preprocessor and JS scripts.
+
