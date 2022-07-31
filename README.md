@@ -2,7 +2,7 @@
 
 - [DEMO LINK](https://angelion541.github.io/mybike_landing/)
 
-- In this landing I using design [design of project](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1)
+- In this landing I using design [design of project](https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?node-id=0%3A1)
 
 - Fonts of project Poppins from https://fonts.google.com/specimen/Poppins?query=pop
 
